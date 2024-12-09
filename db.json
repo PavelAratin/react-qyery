@@ -1,0 +1,100 @@
+{
+  "cars": [
+    {
+      "dealerId": 1,
+      "id": "1",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2024,
+      "body": "The Audi A4 is a line of luxury compact executive cars produced since 1994 by the German car manufacturer Audi, a subsidiary of the Volkswagen Group."
+    },
+    {
+      "dealerId": 2,
+      "id": "2",
+      "brand": "BMW",
+      "model": "X4",
+      "year": 2021,
+      "body": "The BMW X4 is a compact luxury crossover SUV manufactured by BMW since 2014."
+    },
+    {
+      "dealerId": 2,
+      "id": "3",
+      "brand": "BMW",
+      "model": "5 Series",
+      "year": 2016,
+      "body": "The BMW 5 Series is an executive car manufactured and marketed by BMW since 1972, succeeding the New Class Sedans, and currently in its eighth generation"
+    },
+    {
+      "dealerId": 2,
+      "id": "4",
+      "brand": "BMW",
+      "model": "5 Series",
+      "year": 2023,
+      "body": "The BMW 5 Series is an executive car manufactured and marketed by BMW since 1972, succeeding the New Class Sedans, and currently in its eighth generation"
+    },
+    {
+      "dealerId": 1,
+      "id": "5",
+      "brand": "Audi",
+      "model": "A3",
+      "year": 2020,
+      "body": "he Audi A3 TDI clubsport quattro is powered by an engine delivering a whole 165 kW (224 hp) from its displacement of two liters"
+    },
+    {
+      "id": "1733765088717",
+      "brand": "lada",
+      "model": "vesta",
+      "body": "",
+      "dealerId": 2
+    },
+    {
+      "id": "1733765163691",
+      "brand": "Lavs",
+      "model": "City Racer Orange S 29-32",
+      "body": "",
+      "dealerId": 2
+    },
+    {
+      "id": "1733765298973",
+      "brand": "fghfg",
+      "model": "sdsdf",
+      "year": "1710",
+      "body": "",
+      "dealerId": 2
+    },
+    {
+      "id": "1733765531613",
+      "brand": "fghfgh",
+      "model": "fghfgh",
+      "year": "1710",
+      "body": "",
+      "dealerId": 2
+    }
+  ],
+  "dealers": [
+    {
+      "id": "1",
+      "name": "Ауди Центр",
+      "street": "Улица Ленина, 10",
+      "city": "Москва",
+      "phone": "+7-495-255-12-12",
+      "rating": "5",
+      "geo": {
+        "lat": "37.6186486",
+        "lng": "55.7601335"
+      }
+    },
+    {
+      "id": "2",
+      "name": "БМВ Столица",
+      "street": "Улица Тверская 31",
+      "city": "Москва",
+      "phone": "+7-495-255-12-12",
+      "rating": "4",
+      "geo": {
+        "lat": "37.6186486",
+        "lng": "55.7601335"
+      }
+    }
+  ]
+}
